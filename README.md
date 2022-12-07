@@ -5,4 +5,4 @@ In this project, we will be creating Fortnite 2
 We hope to make this the #1 game in the world
 
 
-## I will be in charge the games moving mechanics 
+## I will be in charge of the games moving mechanics 
